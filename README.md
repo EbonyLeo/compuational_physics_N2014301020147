@@ -7,3 +7,6 @@
 - install python2.7 operating environment
 - register a github account 
 - write your first README.md with markdown 
+- PS 初次使用，一脸懵逼，希望能越用越熟练吧
+- And also thanks to 仲逸飞
+- 在下头很硬！强壮！RUA!!!
