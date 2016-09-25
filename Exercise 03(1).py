@@ -1,5 +1,3 @@
-Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
-Type "copyright", "credits" or "license()" for more information.
 >>> x='1'
 d={'1':'  '*1 ,'2':'    '*2,'3':'      '*3,'4':'        '*4,'5':'          '*4,'6':'            '*4,'7':'              '*4,'8':'                '*4}
 import sys
