@@ -12,7 +12,6 @@
 - [x] [Exercise 02](https://github.com/EbonyLeo/compuational_physics_N2014301020147/blob/master/Exercise%2002)
 - Do exercise referring to [**How to think like a computer scientist -- Learning with Python: Interactive Edition 2.0**](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 - Write a Python program to spell your English name with letters on the screen
-
 - [x] [Exercise 03]()
 ## 摘要  
 
