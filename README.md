@@ -13,7 +13,7 @@
 - Do exercise referring to [**How to think like a computer scientist -- Learning with Python: Interactive Edition 2.0**](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 - Write a Python program to spell your English name with letters on the screen
 - [x] [Exercise 03](https://www.zybuluo.com/EbonyLeo/note/512466)
-摘要  
+* 摘要  
 
 * 在课程主页上复习这两次课程的内容，初步掌握python和matplotlib的语法规则，为接下来的课程做好准备
 * L1在屏幕上让你的英文名字水平移动起来
@@ -30,3 +30,13 @@
 * 背景介绍
 
  这两种原子相互转换，从初值条件到平衡状态的变化，通过改变放射的时间常数和两者相互转换的速率比，观察图线的变化，可以明了地看出反应的过程。
+
+- [x] [Exercise 05] ()
+
+* 摘要
+
+ Exercise 2.6 ， 当忽略空气阻力等因素影响时，用欧拉方法模拟炮弹轨迹。
+ 
+* 背景介绍
+
+ 对于斜抛运动，有dx/dt=vx, dy/dt=0,dvx/dt=0,dvy/dt=-g 利用这些关系式模拟炮弹运动轨迹这一有初速度的斜抛运动。
