@@ -41,7 +41,7 @@
 
  对于斜抛运动，有dx/dt=vx, dy/dt=0,dvx/dt=0,dvy/dt=-g 利用这些关系式模拟炮弹运动轨迹这一有初速度的斜抛运动。
 
-- [x] [Exercise 06] ()
+- [x] [Exercise 06] (https://www.zybuluo.com/EbonyLeo/note/542238)
 * 摘要
   Exercise 2.10. 引入迎面风阻。
 * 背景介绍
