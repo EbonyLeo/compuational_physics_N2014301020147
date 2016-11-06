@@ -47,3 +47,5 @@
 * 背景介绍
  用欧拉法对这一问题进行模型建立与公式推导，已程序的形式体现并计算。
   
+- [x] [Exercise 07] (https://www.zybuluo.com/EbonyLeo/note/557835)
+  Problem 3.12 
