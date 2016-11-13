@@ -49,3 +49,6 @@
   
 - [x] [Exercise 07] (https://www.zybuluo.com/EbonyLeo/note/557835)
   Problem 3.12 
+
+- [x] [Exercise 07] (https://www.zybuluo.com/EbonyLeo/note/565975)
+  Problem 3.18
