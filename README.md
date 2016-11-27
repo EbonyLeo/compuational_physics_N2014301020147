@@ -55,4 +55,4 @@
 
 - [x] [Exercise 09]
 
-- [x] [Exercise 10] ()
+- [x] [Exercise 10] (https://www.zybuluo.com/EbonyLeo/note/581712)
