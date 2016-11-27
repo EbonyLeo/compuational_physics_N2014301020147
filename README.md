@@ -52,3 +52,7 @@
 
 - [x] [Exercise 08] (https://www.zybuluo.com/EbonyLeo/note/565975)
   Problem 3.18
+
+- [x] [Exercise 09]
+
+- [x] [Exercise 10] ()
